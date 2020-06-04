@@ -1,0 +1,2 @@
+/Users/krzysztof/UNITY/BattleShipClient/BattleShip/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/krzysztof/UNITY/BattleShipClient/BattleShip/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache

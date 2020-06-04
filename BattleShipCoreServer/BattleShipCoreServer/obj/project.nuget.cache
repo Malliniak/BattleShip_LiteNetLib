@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FAoW93OHC43XSdte9OZ3mQzCRQH3wh8S+5gNqTGG3YhYy4+oGZzJAY+F3Uxy/uliEjMgYk1JhCSU9r15yfB5xA==",
+  "success": true,
+  "projectFilePath": "/Users/krzysztof/UNITY/BattleShipCoreServer/BattleShipCoreServer/BattleShipCoreServer.csproj",
+  "expectedPackageFiles": [
+    "/Users/krzysztof/.nuget/packages/litenetlib/0.8.3.1/litenetlib.0.8.3.1.nupkg.sha512",
+    "/Users/krzysztof/.nuget/packages/serilog/2.9.0/serilog.2.9.0.nupkg.sha512",
+    "/Users/krzysztof/.nuget/packages/serilog.sinks.console/4.0.0-dev-00839/serilog.sinks.console.4.0.0-dev-00839.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,90 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BattleShipCoreServer/1.0.0": {
+        "dependencies": {
+          "LiteNetLib": "0.8.3.1",
+          "Serilog": "2.9.0",
+          "Serilog.Sinks.Console": "4.0.0-dev-00839",
+          "BattleShipShared": "1.0.0.0"
+        },
+        "runtime": {
+          "BattleShipCoreServer.dll": {}
+        }
+      },
+      "LiteNetLib/0.8.3.1": {
+        "runtime": {
+          "lib/netcoreapp2.0/LiteNetLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Serilog/2.9.0": {
+        "runtime": {
+          "lib/netstandard2.0/Serilog.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.9.0.0"
+          }
+        }
+      },
+      "Serilog.Sinks.Console/4.0.0-dev-00839": {
+        "dependencies": {
+          "Serilog": "2.9.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Serilog.Sinks.Console.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "BattleShipShared/1.0.0.0": {
+        "runtime": {
+          "BattleShipShared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BattleShipCoreServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LiteNetLib/0.8.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BicXYfayys6PsJiG96Re/PNPoExqL4FagBcYrVkOuTn7GavP4Z9sn4BTLKSe8vlv6lk8D79KHa12xKiY+T7yjQ==",
+      "path": "litenetlib/0.8.3.1",
+      "hashPath": "litenetlib.0.8.3.1.nupkg.sha512"
+    },
+    "Serilog/2.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QzcrD33A3+CsVvwi1I5CSei67ikQnkGrw7SscgL+vZTghaC2aNYg8fiUcedXHzKJFNjgje9rBjzwYGQTKEaXaA==",
+      "path": "serilog/2.9.0",
+      "hashPath": "serilog.2.9.0.nupkg.sha512"
+    },
+    "Serilog.Sinks.Console/4.0.0-dev-00839": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZFk+UZKpkuApcs1peDfqtG7Y/3ksiv6y0b0KZSaDTUNSiYPZBEVSUC2ZH7Ib9SweU6I4Vwm8+666PUmkoVaVhQ==",
+      "path": "serilog.sinks.console/4.0.0-dev-00839",
+      "hashPath": "serilog.sinks.console.4.0.0-dev-00839.nupkg.sha512"
+    },
+    "BattleShipShared/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

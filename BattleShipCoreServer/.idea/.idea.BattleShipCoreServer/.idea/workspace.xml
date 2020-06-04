@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f2896ad-f9f5-4fe3-ba9f-ae19383a55fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BattleShipCoreServer/Core/Room.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623AD323-590B-41E0-B4A1-CCB8F3313607/43/0983c437/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BattleShipCoreServer/Core/Server.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../BattleShip/BattleShipShared/Packets/Rooms/RoomCommand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BattleShipCoreServer/Rooms/RoomsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BattleShipCoreServer/Core/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F9C85F2C-72AD-4F68-BF12-9AEBDF9A570B/5d/b77ce2f1/NetPacketProcessor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BattleShipCoreServer/Players/PlayersManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BattleShipCoreServer/Core/Player.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BattleShipCoreServer/Room.cs" />
+        <option value="$PROJECT_DIR$/BattleShipCoreServer/Program.cs" />
+        <option value="$PROJECT_DIR$/BattleShipCoreServer/RoomsManager.cs" />
+        <option value="$PROJECT_DIR$/BattleShipCoreServer/PlayersManager.cs" />
+        <option value="$PROJECT_DIR$/BattleShipCoreServer/RoomsController.cs" />
+        <option value="$PROJECT_DIR$/BattleShipCoreServer/Server.cs" />
+        <option value="$PROJECT_DIR$/BattleShipCoreServer/Players/Player.cs" />
+        <option value="$PROJECT_DIR$/BattleShipCoreServer/Core/Packets/Players/PlayerPacket.cs" />
+        <option value="$PROJECT_DIR$/BattleShipCoreServer/Core/Packets/Player/PlayerCommand.cs" />
+        <option value="$PROJECT_DIR$/BattleShipCoreServer/Core/Packets/Rooms/RoomPacket.cs" />
+        <option value="$PROJECT_DIR$/BattleShipCoreServer/Core/Packets/Player/PlayersInRoomStruct.cs" />
+        <option value="$PROJECT_DIR$/BattleShipCoreServer/Core/Packets/Rooms/RoomCommand.cs" />
+        <option value="$PROJECT_DIR$/BattleShipCoreServer/Players/PlayersManager.cs" />
+        <option value="$PROJECT_DIR$/BattleShipCoreServer/Core/Room.cs" />
+        <option value="$PROJECT_DIR$/BattleShipCoreServer/Core/Player.cs" />
+        <option value="$PROJECT_DIR$/BattleShipCoreServer/Core/Server.cs" />
+        <option value="$PROJECT_DIR$/BattleShipCoreServer/Rooms/RoomsController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ar6TG5gQNWacAHx4w9Bj5lq7PC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/BattleShipCoreServer/bin/Debug/netcoreapp3.1/BattleShipCoreServer.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BattleShipCoreServer/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/BattleShipCoreServer/BattleShipCoreServer.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f2896ad-f9f5-4fe3-ba9f-ae19383a55fa" name="Default Changelist" comment="" />
+      <created>1587481371906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587481371906</updated>
+      <workItem from="1587481373544" duration="1516000" />
+      <workItem from="1587551569173" duration="7472000" />
+      <workItem from="1587655358065" duration="11338000" />
+      <workItem from="1587743155045" duration="3878000" />
+      <workItem from="1587747970476" duration="4730000" />
+      <workItem from="1587989849973" duration="48000" />
+      <workItem from="1587989915752" duration="7905000" />
+      <workItem from="1588066673006" duration="8681000" />
+      <workItem from="1588155944019" duration="624000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1263" height="672" key="GridCell.Tab.0.bottom" timestamp="1588156657487">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1263" height="672" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1588156657487" />
+    <state width="1263" height="672" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1680.23.1680.1027@0.0.1920.1080" timestamp="1588079159842" />
+    <state width="1263" height="672" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1588078257318" />
+    <state width="1263" height="672" key="GridCell.Tab.0.center" timestamp="1588156657486">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1263" height="672" key="GridCell.Tab.0.center/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1588156657486" />
+    <state width="1263" height="672" key="GridCell.Tab.0.center/0.0.1920.1080/-1680.23.1680.1027@0.0.1920.1080" timestamp="1588079159839" />
+    <state width="1263" height="672" key="GridCell.Tab.0.center/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1588078257316" />
+    <state width="1263" height="672" key="GridCell.Tab.0.left" timestamp="1588156657485">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1263" height="672" key="GridCell.Tab.0.left/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1588156657485" />
+    <state width="1263" height="672" key="GridCell.Tab.0.left/0.0.1920.1080/-1680.23.1680.1027@0.0.1920.1080" timestamp="1588079159837" />
+    <state width="1263" height="672" key="GridCell.Tab.0.left/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1588078257316" />
+    <state width="1263" height="672" key="GridCell.Tab.0.right" timestamp="1588156657486">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1263" height="672" key="GridCell.Tab.0.right/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1588156657486" />
+    <state width="1263" height="672" key="GridCell.Tab.0.right/0.0.1920.1080/-1680.23.1680.1027@0.0.1920.1080" timestamp="1588079159840" />
+    <state width="1263" height="672" key="GridCell.Tab.0.right/0.23.1920.1057/-1680.23.1680.1027@0.23.1920.1057" timestamp="1588078257317" />
+    <state x="469" y="179" key="SettingsEditor" timestamp="1588155985765">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="179" key="SettingsEditor/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1588155985765" />
+    <state x="625" y="255" key="run.anything.popup" timestamp="1588078498462">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="255" key="run.anything.popup/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1588078498462" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1588076421079">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080/-1680.0.1680.1050@0.0.1920.1080" timestamp="1588076421079" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

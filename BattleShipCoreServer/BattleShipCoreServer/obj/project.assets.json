@@ -1,0 +1,182 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LiteNetLib/0.8.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/LiteNetLib.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/LiteNetLib.dll": {}
+        }
+      },
+      "Serilog/2.9.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Serilog.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Serilog.dll": {}
+        }
+      },
+      "Serilog.Sinks.Console/4.0.0-dev-00839": {
+        "type": "package",
+        "dependencies": {
+          "Serilog": "2.8.0"
+        },
+        "compile": {
+          "lib/netcoreapp2.0/Serilog.Sinks.Console.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/Serilog.Sinks.Console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LiteNetLib/0.8.3.1": {
+      "sha512": "BicXYfayys6PsJiG96Re/PNPoExqL4FagBcYrVkOuTn7GavP4Z9sn4BTLKSe8vlv6lk8D79KHa12xKiY+T7yjQ==",
+      "type": "package",
+      "path": "litenetlib/0.8.3.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/net35/LiteNetLib.dll",
+        "lib/net35/LiteNetLib.pdb",
+        "lib/net35/LiteNetLib.xml",
+        "lib/netcoreapp2.0/LiteNetLib.deps.json",
+        "lib/netcoreapp2.0/LiteNetLib.dll",
+        "lib/netcoreapp2.0/LiteNetLib.pdb",
+        "lib/netcoreapp2.0/LiteNetLib.xml",
+        "lib/netstandard2.0/LiteNetLib.deps.json",
+        "lib/netstandard2.0/LiteNetLib.dll",
+        "lib/netstandard2.0/LiteNetLib.pdb",
+        "lib/netstandard2.0/LiteNetLib.xml",
+        "litenetlib.0.8.3.1.nupkg.sha512",
+        "litenetlib.nuspec"
+      ]
+    },
+    "Serilog/2.9.0": {
+      "sha512": "QzcrD33A3+CsVvwi1I5CSei67ikQnkGrw7SscgL+vZTghaC2aNYg8fiUcedXHzKJFNjgje9rBjzwYGQTKEaXaA==",
+      "type": "package",
+      "path": "serilog/2.9.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Serilog.dll",
+        "lib/net45/Serilog.xml",
+        "lib/net46/Serilog.dll",
+        "lib/net46/Serilog.xml",
+        "lib/netstandard1.0/Serilog.dll",
+        "lib/netstandard1.0/Serilog.xml",
+        "lib/netstandard1.3/Serilog.dll",
+        "lib/netstandard1.3/Serilog.xml",
+        "lib/netstandard2.0/Serilog.dll",
+        "lib/netstandard2.0/Serilog.xml",
+        "serilog.2.9.0.nupkg.sha512",
+        "serilog.nuspec"
+      ]
+    },
+    "Serilog.Sinks.Console/4.0.0-dev-00839": {
+      "sha512": "ZFk+UZKpkuApcs1peDfqtG7Y/3ksiv6y0b0KZSaDTUNSiYPZBEVSUC2ZH7Ib9SweU6I4Vwm8+666PUmkoVaVhQ==",
+      "type": "package",
+      "path": "serilog.sinks.console/4.0.0-dev-00839",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Serilog.Sinks.Console.dll",
+        "lib/net45/Serilog.Sinks.Console.xml",
+        "lib/netcoreapp1.1/Serilog.Sinks.Console.dll",
+        "lib/netcoreapp1.1/Serilog.Sinks.Console.xml",
+        "lib/netcoreapp2.0/Serilog.Sinks.Console.dll",
+        "lib/netcoreapp2.0/Serilog.Sinks.Console.xml",
+        "lib/netstandard1.3/Serilog.Sinks.Console.dll",
+        "lib/netstandard1.3/Serilog.Sinks.Console.xml",
+        "lib/netstandard2.0/Serilog.Sinks.Console.dll",
+        "lib/netstandard2.0/Serilog.Sinks.Console.xml",
+        "serilog.sinks.console.4.0.0-dev-00839.nupkg.sha512",
+        "serilog.sinks.console.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "LiteNetLib >= 0.8.3.1",
+      "Serilog >= 2.9.0",
+      "Serilog.Sinks.Console >= 4.0.0-dev-00839"
+    ]
+  },
+  "packageFolders": {
+    "/Users/krzysztof/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/krzysztof/UNITY/BattleShipCoreServer/BattleShipCoreServer/BattleShipCoreServer.csproj",
+      "projectName": "BattleShipCoreServer",
+      "projectPath": "/Users/krzysztof/UNITY/BattleShipCoreServer/BattleShipCoreServer/BattleShipCoreServer.csproj",
+      "packagesPath": "/Users/krzysztof/.nuget/packages/",
+      "outputPath": "/Users/krzysztof/UNITY/BattleShipCoreServer/BattleShipCoreServer/obj/",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "/Users/krzysztof/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "LiteNetLib": {
+            "target": "Package",
+            "version": "[0.8.3.1, )"
+          },
+          "Serilog": {
+            "target": "Package",
+            "version": "[2.9.0, )"
+          },
+          "Serilog.Sinks.Console": {
+            "target": "Package",
+            "version": "[4.0.0-dev-00839, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

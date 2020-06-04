@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/krzysztof/UNITY/BattleShipCoreServer/BattleShipCoreServer/BattleShipCoreServer.csproj": {}
+  },
+  "projects": {
+    "/Users/krzysztof/UNITY/BattleShipCoreServer/BattleShipCoreServer/BattleShipCoreServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/krzysztof/UNITY/BattleShipCoreServer/BattleShipCoreServer/BattleShipCoreServer.csproj",
+        "projectName": "BattleShipCoreServer",
+        "projectPath": "/Users/krzysztof/UNITY/BattleShipCoreServer/BattleShipCoreServer/BattleShipCoreServer.csproj",
+        "packagesPath": "/Users/krzysztof/.nuget/packages/",
+        "outputPath": "/Users/krzysztof/UNITY/BattleShipCoreServer/BattleShipCoreServer/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/krzysztof/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "LiteNetLib": {
+              "target": "Package",
+              "version": "[0.8.3.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[4.0.0-dev-00839, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
